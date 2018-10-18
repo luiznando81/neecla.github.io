@@ -1,15 +1,11 @@
-name: "R Markdown Websites Tutorial"
+name: "Neecla Luzern"
 navbar:
   title: "Home"
   left:
-    - text: "First Observations"
-      href: first_observations.html
-    - text: "Basic Workflow"
-      href: basic_workflow.html
-    - text: "Getting Sophisticated"
-      href: getting_sophisticated.html
-    - text: "Your Turn"
-      href: your_turn.html
+    - text: "Sobre"
+      href: sobre.html
+    - text: "Palestras"
+      href: palestras.html
 output_dir: "."
 output:
   html_document:

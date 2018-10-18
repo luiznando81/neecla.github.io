@@ -1,0 +1,24 @@
+---
+title: "Palestras"
+---
+
+<br></br>
+
+----
+
+##### Próxima palestra:
+
+<br></br>
+
+![](images/proxima_palestra.jpg)
+
+----
+
+### Calendário de palestras
+
+<br></br>
+
+Data | Tema | Palestrante | Idioma
+-----|------------------------------------------------------------|-------------|--------
+22.10.2018|Prevenindo ligações espirituais negativas|Jussara Korngold|Português
+29.10.2018|Palestra ... | Palestrante | Português
